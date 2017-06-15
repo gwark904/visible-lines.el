@@ -1,0 +1,3 @@
+I did not make or modify this minor mode.  All credit goes to the original creator/maintainer.
+
+*/!\ NO SUPPORT WILL BE PROVIDED /!\*
